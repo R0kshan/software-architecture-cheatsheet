@@ -2,8 +2,8 @@
 
 | Pattern                | Definition | Use Cases | Pros | Cons |
 | ---------------------- | ---------- | --------- | ---- | ---- |
-| [[CDN]]                |            |           |      |      |
-| [[Request Coalescing]] |            |           |      |      |
+| [CDN](CDN.md)                |            |           |      |      |
+| [Request Coalescing](Request%20Coalescing.md) |            |           |      |      |
 
 > [!NOTE] TODO
 > - Table to complete

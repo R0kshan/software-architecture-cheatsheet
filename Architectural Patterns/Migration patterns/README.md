@@ -2,8 +2,8 @@
 
 | Pattern                    | Definition | Use Cases | Pros | Cons |
 | -------------------------- | ---------- | --------- | ---- | ---- |
-| [[Strangler Fig]]          |            |           |      |      |
-| [[Anti-Corruption Layer ]] |            |           |      |      |
+| [Strangler Fig](Strangler%20Fig.md)          |            |           |      |      |
+| [Anti-Corruption Layer ](Anti-Corruption%20Layer%20) |            |           |      |      |
 
 > [!NOTE] TODO
 > Table to complete

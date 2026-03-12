@@ -1,4 +1,4 @@
-![[worldmap-submarin-cables.png]]
+![worldmap-submarin-cables](worldmap-submarin-cables.png)
 
 
 > [!NOTE] Note

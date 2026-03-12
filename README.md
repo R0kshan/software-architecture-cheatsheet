@@ -3,7 +3,8 @@
 > [!NOTE] IMPORTANT : PLEASE READ
 > This repository is still in early development, I've set the base structure of the notes but there's still a lot more content to add. 
 > That's also why many  pages are still empty for the moment, and will progressively be completed.
-> The notes were taking using [Obsidian](https://obsidian.md/) so the links are Wikilinks, not markdown links
+> The notes were taking using [Obsidian](https://obsidian.md/) so the links are "Wikilinks", not yet markdown links, but I plan to convert them later on.
+
 ## Software architecture cheatsheet 
 
 > [!NOTE] Note
@@ -30,5 +31,5 @@ While there are excellent cheatsheets out there, everyone organizes and presents
 I originally created this for my own reference, but if you find it useful, any contributing and feedback is very welcome !
 ## Entrypoint 
 
- [[Pillars of Well-Architected Software/README|Pillars of Well-Architected Software]]
+ [Pillars of Well-Architected Software](Pillars%20of%20Well-Architected%20Software/README.md)
 

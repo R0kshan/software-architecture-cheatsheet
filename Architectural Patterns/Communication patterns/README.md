@@ -2,10 +2,10 @@
 
 | Pattern          | Definition | Use Cases | Pros | Cons |
 | ---------------- | ---------- | --------- | ---- | ---- |
-| [[Pub Sub]]      |            |           |      |      |
-| [[Long-polling]] |            |           |      |      |
-| [[Webhook]]      |            |           |      |      |
-| [[WebSocket]]    |            |           |      |      |
+| [Pub Sub](Pub%20Sub.md)      |            |           |      |      |
+| [Long-polling](Long-polling.md) |            |           |      |      |
+| [Webhook](Webhook.md)      |            |           |      |      |
+| [WebSocket](WebSocket.md)    |            |           |      |      |
 
 > [!NOTE] TODO
 > - Table to complete

@@ -25,4 +25,4 @@ Reduce environmental impact through efficient resource use and long-term plannin
 ---
 ## Footnotes
 
-[^1]: Checkout the definition of Non Functional Requirements under [[Terminology]]
+[^1]: Checkout the definition of Non Functional Requirements under [Terminology](Terminology.md)
