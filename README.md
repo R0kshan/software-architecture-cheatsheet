@@ -3,7 +3,7 @@
 > [!NOTE] IMPORTANT : PLEASE READ
 > This repository is still in early development, I've set the base structure of the notes but there's still a lot more content to add. 
 > That's also why many  pages are still empty for the moment, and will progressively be completed.
-> The notes were taking using [Obsidian](https://obsidian.md/) so the links are "Wikilinks", not yet markdown links, but I plan to convert them later on.
+
 
 ## Software architecture cheatsheet 
 
