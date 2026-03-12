@@ -1,3 +1,5 @@
+## List of NFRs to Pillars Matrix
+
 > [!NOTE] How to read the following table
 >  - The table below maps common NFRs to architecture pillars, highlighting where they align ✅ and where trade-offs ⚖️ require design decisions.
 >- The core pillars for a robust architecture are **Security, Reliability, Performance, Maintainability.**
@@ -29,3 +31,5 @@
 | **[Compliance & Regulatory](Compliance%20&%20Regulatory.md)**                                  |                            | ✅            |                 |                 |                     | ⚖️            |                    |
 | **[Latency](Latency.md)**                                                  |                            |              | ⚖️              | ✅               |                     | ⚖️            | ⚖️                 |
 | **[Automation](Automation.md)**                                               | ✅                          |              | ✅               | ✅               | ✅                   | ✅             | ✅                  |
+
+
