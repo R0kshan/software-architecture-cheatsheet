@@ -1,0 +1,1 @@
+- [How rate limiting prevents outage before they happen](https://blog.levelupcoding.com/p/rate-limiting)
