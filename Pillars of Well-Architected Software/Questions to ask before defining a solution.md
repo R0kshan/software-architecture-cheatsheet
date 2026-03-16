@@ -1,4 +1,3 @@
-
 ## Data volume
 
 - Data Volume: What is the initial database size at launch and its projected annual growth rate?
