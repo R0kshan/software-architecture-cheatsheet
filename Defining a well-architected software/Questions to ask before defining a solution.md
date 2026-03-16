@@ -1,3 +1,4 @@
+Architecture has value only if it meets the business needs.
 ## Data volume
 
 - Data Volume: What is the initial database size at launch and its projected annual growth rate?
