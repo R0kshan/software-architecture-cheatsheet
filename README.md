@@ -31,5 +31,5 @@ While there are excellent resources out there, everyone organizes and presents i
 I originally created this for my own reference, but if you find it useful, any contributing and feedback is very welcome !
 ## Entrypoint 
 
- [Pillars of Well-Architected Software](Pillars%20of%20Well-Architected%20Software/README.md)
+ [Pillars of Well-Architected Software](Defining%20a%20well-architected%20software/README.md)
 
