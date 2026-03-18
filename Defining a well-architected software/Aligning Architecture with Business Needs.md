@@ -5,7 +5,7 @@
 - **Success Criteria:** How will the client measure if the project is a success?
 
 > [!NOTE] Note
-> Success criteria is very important to avoid dissatisfaction from the client. => TODO : write about defining mesure point (latency that comes out of the application not how quicklt the client receives the response on the browser or on the application)
+> Success criteria is very important to avoid dissatisfaction from the client. => TODO : write about defining mesure point (latency that comes out of the application not how quickly the client receives the response on the browser or on the application)
 ## 2. Stakeholders and Ecosystem: Problem Data
 Mapping the environment :
 - **Users:** List the roles, the number of current users, and the expected "growth curve" to anticipate volume (checkout [Questions to ask before defining a solution](Questions%20to%20ask%20before%20defining%20a%20solution.md))
