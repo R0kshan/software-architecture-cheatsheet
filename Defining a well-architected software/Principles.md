@@ -18,5 +18,9 @@ For more information :
 
 *Design with a vision of the futur*
 
+---
+
+Defense in depth
+
 > [!NOTE] Note
 > Not complete, more to add
