@@ -22,5 +22,9 @@ For more information :
 
 Defense in depth
 
+---
+
+Simplicity
+
 > [!NOTE] Note
 > Not complete, more to add

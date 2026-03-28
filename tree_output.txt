@@ -1,0 +1,346 @@
+.
+├── .git
+│   ├── COMMIT_EDITMSG
+│   ├── FETCH_HEAD
+│   ├── HEAD
+│   ├── ORIG_HEAD
+│   ├── config
+│   ├── description
+│   ├── fsmonitor--daemon
+│   │   └── cookies
+│   ├── gk
+│   │   └── config
+│   ├── hooks
+│   │   ├── applypatch-msg.sample
+│   │   ├── commit-msg.sample
+│   │   ├── fsmonitor-watchman.sample
+│   │   ├── post-update.sample
+│   │   ├── pre-applypatch.sample
+│   │   ├── pre-commit.sample
+│   │   ├── pre-merge-commit.sample
+│   │   ├── pre-push.sample
+│   │   ├── pre-rebase.sample
+│   │   ├── pre-receive.sample
+│   │   ├── prepare-commit-msg.sample
+│   │   ├── push-to-checkout.sample
+│   │   ├── sendemail-validate.sample
+│   │   └── update.sample
+│   ├── index
+│   ├── info
+│   │   └── exclude
+│   ├── logs
+│   │   ├── HEAD
+│   │   └── refs
+│   │       ├── heads
+│   │       │   ├── feature
+│   │       │   │   └── content-update
+│   │       │   └── main
+│   │       └── remotes
+│   │           └── origin
+│   │               ├── HEAD
+│   │               └── feature
+│   │                   └── content-update
+│   ├── objects
+│   │   ├── 50
+│   │   │   └── 7be0d79602f7f097a3addebee9ad1588b3acd4
+│   │   ├── 65
+│   │   │   └── 75d85d22fbdf146e12a418bcb95d7499d98508
+│   │   ├── 68
+│   │   │   └── 48242d0a81a7a9061eb7898db2febbd71d007f
+│   │   ├── 7d
+│   │   │   └── 273f5a8930416a75bc01fa746e96114aef0063
+│   │   ├── 7f
+│   │   │   └── 9e001523f3b0e12f1f46548a303e683df8133f
+│   │   ├── 87
+│   │   │   └── 1894f8bc66b9b3fa5187bd50ce70daf768f41d
+│   │   ├── 97
+│   │   │   └── 4599d70695d74c7348863fafaaff30adabb9ae
+│   │   ├── 9e
+│   │   │   └── 26dfeeb6e641a33dae4961196235bdb965b21b
+│   │   ├── a8
+│   │   │   └── fcfa52663d8d950408dd97a58a357f29724642
+│   │   ├── b8
+│   │   │   └── 7be686e3169dc8ffdaa6a8c0717b09ee19d9ff
+│   │   ├── b9
+│   │   │   └── a69df84d4ed80cd4cacf0e7a1aaf6613906e3f
+│   │   ├── be
+│   │   │   └── b6413cee958bb3b21e92dcaf6b2b14c8eb537f
+│   │   ├── c4
+│   │   │   └── 7e663692c802686a1ec91ded0b227f48f7add1
+│   │   ├── cf
+│   │   │   └── 0dd315315ff153893215ea647800dc0f8adcec
+│   │   ├── de
+│   │   │   ├── eda9357a3b353b475fbbb8afdd4eaba05591ea
+│   │   │   └── ff70f1a33a3b7a3776975c97710053daa6bebf
+│   │   ├── e2
+│   │   │   └── df431e6bf1dbf1619d601f063c2a68f1761678
+│   │   ├── e6
+│   │   │   └── 10b76765353dce349a8e4d9ce44137479c3d93
+│   │   ├── ec
+│   │   │   └── 91d9dd4b76fa03b14d02b305662a564630e603
+│   │   ├── fb
+│   │   │   ├── 3db16a0b9c45e16f5610b80479edf0bd8bebf7
+│   │   │   └── 5a0facb9926572843157a207c7e305e0e1cc6c
+│   │   ├── info
+│   │   └── pack
+│   │       ├── pack-0fc18f6d89cf162b67a6aaa03a032afdc35e4ef9.idx
+│   │       ├── pack-0fc18f6d89cf162b67a6aaa03a032afdc35e4ef9.pack
+│   │       └── pack-0fc18f6d89cf162b67a6aaa03a032afdc35e4ef9.rev
+│   ├── packed-refs
+│   └── refs
+│       ├── heads
+│       │   ├── feature
+│       │   │   └── content-update
+│       │   └── main
+│       ├── remotes
+│       │   └── origin
+│       │       ├── HEAD
+│       │       └── feature
+│       │           └── content-update
+│       └── tags
+├── .gitignore
+├── .obsidian
+│   ├── app.json
+│   ├── appearance.json
+│   ├── community-plugins.json
+│   ├── core-plugins.json
+│   ├── plugins
+│   │   └── obsidian-git
+│   │       ├── main.js
+│   │       ├── manifest.json
+│   │       ├── obsidian_askpass.sh
+│   │       └── styles.css
+│   └── workspace.json
+├── Architectural Patterns
+│   ├── Architectural Styles
+│   │   ├── Clean Architecture.md
+│   │   ├── Distributed Systems.md
+│   │   ├── Event-Driven Architecture (EDA).md
+│   │   ├── Hexagonal architecture.md
+│   │   ├── Horizontal Architecture.md
+│   │   ├── Miroservices.md
+│   │   ├── Module Monolith (aka Modulith).md
+│   │   ├── Monolith.md
+│   │   ├── README.md
+│   │   ├── REST.md
+│   │   └── Serverless Architecture.md
+│   ├── Communication patterns
+│   │   ├── Long-polling.md
+│   │   ├── Pub Sub.md
+│   │   ├── README.md
+│   │   ├── WebSocket.md
+│   │   └── Webhook.md
+│   ├── Data patterns
+│   │   ├── CQRS.md
+│   │   ├── Data Fabric.md
+│   │   ├── Data Lake.md
+│   │   ├── Data Lakehouse.md
+│   │   ├── Data Mesh.md
+│   │   ├── Data Virtualization.md
+│   │   ├── Data Warehouse.md
+│   │   ├── Event Sourcing.md
+│   │   └── README.md
+│   ├── Middleware
+│   │   ├── API Gateway.md
+│   │   ├── ESB (Entreprise Service Bus).md
+│   │   ├── MOM (Message Oriented Middleware).md
+│   │   ├── ORB (Object Request Broker).md
+│   │   ├── README.md
+│   │   └── TP Monitor.md
+│   ├── Migration patterns
+│   │   ├── Anti-Corruption Layer.md
+│   │   ├── README.md
+│   │   └── Strangler Fig.md
+│   ├── Performance & Efficiency Patterns
+│   │   └── README.md
+│   └── README.md
+├── Architectural strategies
+│   └── Graceful degradation.md
+├── Case studies
+│   ├── Messaging systems
+│   │   ├── Discord.md
+│   │   ├── E-commerce
+│   │   │   └── README.md
+│   │   ├── README.md
+│   │   ├── WhatsApp.md
+│   │   └── images
+│   │       └── how-discord-stores-trillions-of-messages.png
+│   ├── On-demand platforms
+│   │   ├── README.md
+│   │   └── Uber.md
+│   ├── README.md
+│   ├── Video games
+│   │   ├── README.md
+│   │   └── Runescape.md
+│   └── Video streaming platforms
+│       ├── Netflix.md
+│       ├── README.md
+│       └── YouTube.md
+├── Concepts
+│   ├── Availability
+│   │   └── Load Balancing.md
+│   ├── Communication protocols
+│   │   ├── HTTP.md
+│   │   ├── README.md
+│   │   ├── SOAP.md
+│   │   ├── WebSockets.md
+│   │   └── gRPC.md
+│   ├── DSA (Data Structure Algorithms)
+│   │   └── README.md
+│   ├── Data
+│   │   ├── Data management
+│   │   │   ├── ACID.md
+│   │   │   ├── BASE.md
+│   │   │   ├── README.md
+│   │   │   └── Sharding.md
+│   │   └── Storage
+│   │       ├── Local replication.md
+│   │       ├── NAS (Network Attached Storage).md
+│   │       ├── RAID modes.md
+│   │       ├── SAN (Storage Area Network).md
+│   │       └── Thin provisionning.md
+│   ├── Deployment
+│   │   └── README.md
+│   ├── DevOps.md
+│   ├── DevSecOps.md
+│   ├── Distributed Systems
+│   │   ├── CAP Theorem.md
+│   │   ├── CIAT Matrix.md
+│   │   ├── Consensus algorithms.md
+│   │   └── Eventual Consistency.md
+│   ├── Networking
+│   │   ├── Network hardware equipments
+│   │   │   ├── Cable types.md
+│   │   │   ├── Hub.md
+│   │   │   ├── Load Balancer.md
+│   │   │   ├── README.md
+│   │   │   ├── Router.md
+│   │   │   └── Switch.md
+│   │   ├── Network virtual equipments
+│   │   │   ├── README.md
+│   │   │   └── Virtual network interface.md
+│   │   ├── OSI Model.md
+│   │   ├── Protocols
+│   │   │   ├── README.md
+│   │   │   ├── TCP.md
+│   │   │   └── UDP.md
+│   │   ├── README.md.md
+│   │   ├── Types of Network
+│   │   │   ├── LAN (Local Area Network).md
+│   │   │   ├── MAN (Metropolitan Area Network).md
+│   │   │   ├── README.md
+│   │   │   ├── VLAN (Virtual Local Area Network).md
+│   │   │   └── WAN (Wide Area Network).md
+│   │   ├── Wireless networks
+│   │   │   ├── 4G LTE-Advanced.md
+│   │   │   ├── 5G.md
+│   │   │   ├── Gigabit WiMAX.md
+│   │   │   ├── WIFI.md
+│   │   │   └── WiMAX.md
+│   │   ├── World Map sub marine cables.md
+│   │   └── images
+│   │       └── worldmap-submarin-cables.png
+│   ├── Performance & Efficiency
+│   │   ├── CDN.md
+│   │   ├── Caching.md
+│   │   ├── Hardware acceleration.md
+│   │   ├── README.md
+│   │   └── Request Coalescing.md
+│   ├── Protocols
+│   ├── README.md
+│   ├── Reliability
+│   │   ├── Autoscaling.md
+│   │   ├── Business Continuity (BCP & PCA).md
+│   │   ├── Disaster Recovery (DRP & PRA).md
+│   │   ├── Horizontal scaling.md
+│   │   └── Idempotency.md
+│   ├── Security
+│   │   ├── Data encryption
+│   │   │   ├── KEK DEK.md
+│   │   │   ├── PGP.md
+│   │   │   ├── PQC (Post-Quantum Cryptography).md
+│   │   │   └── README.md
+│   │   ├── Identity
+│   │   │   ├── JWT.md
+│   │   │   ├── Opaque Token.md
+│   │   │   └── README.md
+│   │   ├── Protocol rupture.md
+│   │   └── Reliability
+│   │       ├── README.md
+│   │       └── Rate limiting.md
+│   ├── Sharding
+│   ├── Software Design Patterns
+│   │   └── README.md
+│   ├── System observability
+│   │   ├── Monitoring.md
+│   │   ├── Observability.md
+│   │   └── README.md
+│   ├── Untitled.canvas
+│   └── Web Fundamentals
+│       └── How the browser works.md
+├── Defining a well-architected software
+│   ├── Aligning Architecture with Business Needs.md
+│   ├── Avoid common pitfalls
+│   │   ├── Hype Cycle - Peak of Inflated Expectations.md
+│   │   └── README.md
+│   ├── Core Pillars.md
+│   ├── Key Architectural Trade-offs.md
+│   ├── NFR to Pillars Matrix.md
+│   ├── Principles.md
+│   ├── Questions to ask before defining a solution.md
+│   ├── README.md
+│   └── The 3 Levels of Architecture.md
+├── Methodologies
+│   ├── README.md
+│   ├── Software architecture
+│   │   ├── ADR.md
+│   │   └── README.md
+│   └── Software design
+│       ├── BDD (Behavior-Driven Development).md
+│       ├── DDD (Domain Driven Design).md
+│       ├── README.md
+│       └── TDD (Test Driven Developement).md
+├── Non Functional Requirements
+│   ├── Audit Logging.md
+│   ├── Automation.md
+│   ├── Compliance & Regulatory.md
+│   ├── Cost Efficiency.md
+│   ├── Cost Predictability.md
+│   ├── Data Encryption.md
+│   ├── Data integrity.md
+│   ├── Elasticity.md
+│   ├── Fault Tolerance.md
+│   ├── Flexibility.md
+│   ├── High Availability.md
+│   ├── Identification & Authorization.md
+│   ├── Interoperability.md
+│   ├── Latency.md
+│   ├── Lifetime.md
+│   ├── Network Opt..md
+│   ├── Observability.md
+│   ├── Performance.md
+│   ├── Portability.md
+│   ├── README.md
+│   ├── Recoverability.md
+│   ├── Resource Opt..md
+│   ├── Reusability.md
+│   ├── Scalability.md
+│   ├── Simplicity.md
+│   └── Testability.md
+├── README.md
+├── Staying updated.md
+├── Technology
+│   ├── Back-End
+│   │   └── README.md
+│   ├── Devops
+│   │   └── README.md
+│   ├── Front-End
+│   │   └── README.md
+│   └── Message brokers
+│       ├── Kafka.md
+│       └── images
+│           └── how-kafka-works.png
+├── Terminology.md
+└── tree_output.txt
+
+97 directories, 246 files
