@@ -1,0 +1,1 @@
+Authoritative source : https://learn.microsoft.com/en-us/azure/well-architected/performance-efficiency/tradeoffs#performance-efficiency-tradeoffs-with-security
