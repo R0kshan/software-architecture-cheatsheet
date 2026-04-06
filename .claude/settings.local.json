@@ -1,6 +1,0 @@
-{
-  "env": {
-    "ANTHROPIC_DEFAULT_SONNET_MODEL": "deepseek-r1:32b",
-    "ANTHROPIC_DEFAULT_OPUS_MODEL": "deepseek-r1:32b"
-  }
-}
