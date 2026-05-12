@@ -1,8 +1,7 @@
  🟢 Status: In Development
 
 > [!NOTE] IMPORTANT : PLEASE READ
-> This repository is still in early development, I've set the base structure of the notes but there's still a lot more content to add. 
-> That's also why many  pages are still empty for the moment, and will progressively be completed.
+> This repository is still in early development, I've set the base structure of the notes but there's still a lot more content to add and will progressively be completed.
 
 ## Software architecture cheatsheet 
 
