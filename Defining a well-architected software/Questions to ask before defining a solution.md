@@ -8,5 +8,5 @@ Architecture has value only if it meets the business needs.
 - Transactions: What is the expected volume of requests or Transactions Per Second (TPS)?"
 
 > [!NOTE] Note
-> TODO : to complete
+> This page is incomplete
 
