@@ -37,4 +37,4 @@ I originally created this for my own reference, but if you find it useful, any c
 
 ## Entrypoint
 
- [Pillars of Well-Architected Software](Defining%20a%20well-architected%20software/README.md)
+ [Defining a well-architected software](Defining%20a%20well-architected%20software/README.md)
