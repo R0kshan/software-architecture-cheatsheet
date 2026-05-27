@@ -12,7 +12,6 @@ Ensure a system consistently performs its intended function and recovers quickly
 Efficiently use computing resources to meet system requirements under varying demand.  
 #### 🔧 Maintainability
 Enable systems to be modified, understood, and evolved with minimal effort and risk.  
-
 ### Additional pillars mentioned by the Big Three (Google, Amazon, Microsoft)
 #### 💰 Cost Optimization
 Deliver maximum business value while minimizing resource usage and expenses.  
